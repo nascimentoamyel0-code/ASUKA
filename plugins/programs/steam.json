@@ -1,0 +1,16 @@
+{
+    "id": "steam",
+    "name": "Steam",
+    "path": "E:/Steam/steam.exe",
+    "process": "steam.exe",
+    "window_title": "Steam",
+    "category": "games",
+    "restart_delay": 2,
+    "favorite": true,
+    "aliases": [
+        "steam",
+        "esse fim",
+        "este fim",
+        "setinho"
+    ]
+}

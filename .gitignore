@@ -1,0 +1,36 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VS Code
+.vscode/
+
+# IDEs
+.idea/
+
+# Logs
+*.log
+
+# Variáveis de ambiente
+.env
+
+# Cache
+.cache/
+hf_cache/
+
+# Modelos grandes
+models/
+model/
+weights/
+
+# Banco de dados
+*.db
+
+# Sistema
+Thumbs.db
+.DS_Store

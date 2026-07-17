@@ -1,0 +1,39 @@
+{
+    "open": [
+        "abrir",
+        "abre",
+        "abra",
+        "abrir o",
+        "abrir a",
+        "abre o",
+        "abre a",
+        "abre meu",
+        "abre minha",
+        "pode abrir",
+        "iniciar",
+        "inicia",
+        "executar",
+        "executa"
+    ],
+    "close": [
+        "fechar",
+        "fecha",
+        "feche",
+        "fecha o",
+        "fecha a",
+        "pode fechar",
+        "encerrar",
+        "encerra",
+        "finalizar",
+        "finaliza"
+    ],
+    "restart": [
+        "reiniciar",
+        "reinicia",
+        "reinicie",
+        "reabrir",
+        "reabre",
+        "abrir novamente",
+        "abre novamente"
+    ]
+}

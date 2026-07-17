@@ -1,0 +1,18 @@
+{
+    "id": "vscode",
+    "name": "Visual Studio Code",
+    "path": "C:/Users/maria/AppData/Local/Programs/Microsoft VS Code/Code.exe",
+    "process": "Code.exe",
+    "window_title": "Visual Studio Code",
+    "category": "development",
+    "restart_delay": 1,
+    "favorite": true,
+    "aliases": [
+        "vscode",
+        "vs code",
+        "visual studio code",
+        "visual studio",
+        "código",
+        "codigo"
+    ]
+}

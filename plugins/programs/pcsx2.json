@@ -1,0 +1,17 @@
+{
+    "id": "pcsx2",
+    "name": "PCSX2",
+    "path": "F:/PCSXZ2/pcsx2-qt.exe",
+    "process": "pcsx2-qt.exe",
+    "window_title": "PCSX2",
+    "category": "games",
+    "restart_delay": 1,
+    "favorite": false,
+    "aliases": [
+        "pcsx2",
+        "pcs x2",
+        "pcs-x2",
+        "ps2",
+        "emulador"
+    ]
+}

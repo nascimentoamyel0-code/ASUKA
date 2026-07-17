@@ -1,0 +1,74 @@
+{
+    "EDGE": {
+        "name": "Microsoft Edge",
+        "path": "C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe",
+        "process": "msedge.exe",
+        "window_title": "Edge",
+        "category": "browser",
+        "restart_delay": 1,
+        "favorite": false
+    },
+    "DISCORD": {
+        "name": "Discord",
+        "path": "%LocalAppData%/Discord/Update.exe --processStart Discord.exe",
+        "process": "Discord.exe",
+        "window_title": "Discord",
+        "category": "communication",
+        "restart_delay": 2,
+        "favorite": true
+    },
+    "STEAM": {
+        "name": "Steam",
+        "path": "C:/Program Files (x86)/Steam/Steam.exe",
+        "process": "steam.exe",
+        "window_title": "Steam",
+        "category": "games",
+        "restart_delay": 2,
+        "favorite": true
+    },
+    "SPOTIFY": {
+        "name": "Spotify",
+        "path": "%AppData%/Spotify/Spotify.exe",
+        "process": "Spotify.exe",
+        "window_title": "Spotify",
+        "category": "music",
+        "restart_delay": 1,
+        "favorite": true
+    },
+    "VSCODE": {
+        "name": "Visual Studio Code",
+        "path": "C:/Users/maria/AppData/Local/Programs/Microsoft VS Code/Code.exe",
+        "process": "Code.exe",
+        "window_title": "Visual Studio Code",
+        "category": "development",
+        "restart_delay": 1,
+        "favorite": true
+    },
+    "PCSX2": {
+        "name": "PCSX2",
+        "path": "F:/PCSXZ2/pcsx2-qt.exe",
+        "process": "pcsx2-qt.exe",
+        "window_title": "PCSX2",
+        "category": "games",
+        "restart_delay": 1,
+        "favorite": false
+    },
+    "TLAUNCHER": {
+        "name": "TLauncher",
+        "path": "F:/.minecraft/TLauncher.exe",
+        "process": "TLauncher.exe",
+        "window_title": "TLauncher",
+        "category": "games",
+        "restart_delay": 2,
+        "favorite": true
+    },
+    "PARSEC": {
+        "name": "Parsec",
+        "path": "C:/Program Files/Parsec/parsecd.exe",
+        "process": "parsecd.exe",
+        "window_title": "Parsec",
+        "category": "remote",
+        "restart_delay": 1,
+        "favorite": true
+    }
+}

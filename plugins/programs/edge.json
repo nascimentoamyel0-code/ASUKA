@@ -1,0 +1,16 @@
+{
+    "id": "edge",
+    "name": "Microsoft Edge",
+    "path": "C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe",
+    "process": "msedge.exe",
+    "window_title": "Edge",
+    "category": "browser",
+    "restart_delay": 1,
+    "favorite": false,
+    "aliases": [
+        "edge",
+        "microsoft edge",
+        "navegador",
+        "internet"
+    ]
+}

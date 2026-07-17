@@ -1,0 +1,28 @@
+{
+    "repairs": [
+        {
+            "program": "Spotify",
+            "old_path": "%AppData%/Spotify/Spotify.exe",
+            "new_path": "C:/Users/maria/AppData/Local/Microsoft/WindowsApps/Spotify.exe",
+            "date": "2026-07-03 16:13:44"
+        },
+        {
+            "program": "TLauncher",
+            "old_path": "F:/TLauncher/TLauncher.exe",
+            "new_path": "F:/.minecraft/TLauncher.exe",
+            "date": "2026-07-03 16:48:10"
+        },
+        {
+            "program": "Steam",
+            "old_path": "C:/Program Files (x86)/Steam/Steam.exe",
+            "new_path": "E:/Steam/steam.exe",
+            "date": "2026-07-17 13:51:33"
+        },
+        {
+            "program": "TLauncher",
+            "old_path": "F:/.minecraft/TLauncher.exe",
+            "new_path": "C:/#COISAS OLD/.minecraft/TLauncher.exe",
+            "date": "2026-07-17 13:55:21"
+        }
+    ]
+}

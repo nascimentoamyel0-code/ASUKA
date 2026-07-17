@@ -1,0 +1,16 @@
+{
+    "id": "parsec",
+    "name": "Parsec",
+    "path": "C:/Program Files/Parsec/parsecd.exe",
+    "process": "parsecd.exe",
+    "window_title": "Parsec",
+    "category": "remote",
+    "restart_delay": 1,
+    "favorite": true,
+    "aliases": [
+        "parsec",
+        "parceque",
+        "pc remoto",
+        "controle remoto"
+    ]
+}

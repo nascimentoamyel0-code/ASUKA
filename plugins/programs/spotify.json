@@ -1,0 +1,15 @@
+{
+    "id": "spotify",
+    "name": "Spotify",
+    "path": "C:/Users/maria/AppData/Local/Microsoft/WindowsApps/Spotify.exe",
+    "process": "Spotify.exe",
+    "window_title": "Spotify",
+    "category": "music",
+    "restart_delay": 1,
+    "favorite": true,
+    "aliases": [
+        "spotify",
+        "spotifai",
+        "espotify"
+    ]
+}

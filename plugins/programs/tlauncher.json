@@ -1,0 +1,16 @@
+{
+    "id": "tlauncher",
+    "name": "TLauncher",
+    "path": "C:/#COISAS OLD/.minecraft/TLauncher.exe",
+    "process": "TLauncher.exe",
+    "window_title": "TLauncher",
+    "category": "games",
+    "restart_delay": 2,
+    "favorite": true,
+    "aliases": [
+        "tlauncher",
+        "minecraft",
+        "launcher",
+        "long sher"
+    ]
+}

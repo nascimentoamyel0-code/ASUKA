@@ -1,0 +1,15 @@
+{
+    "id": "discord",
+    "name": "Discord",
+    "path": "%LocalAppData%/Discord/Update.exe --processStart Discord.exe",
+    "process": "Discord.exe",
+    "window_title": "Discord",
+    "category": "communication",
+    "restart_delay": 2,
+    "favorite": true,
+    "aliases": [
+        "discord",
+        "discórdia",
+        "discorde"
+    ]
+}

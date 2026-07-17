@@ -1,0 +1,9 @@
+{
+    "total_sessions": 7,
+    "total_minutes": 16,
+    "last_session": {
+        "started_at": "2026-07-04 19:53:40",
+        "ended_at": "2026-07-04 19:54:35",
+        "duration_minutes": 0
+    }
+}
